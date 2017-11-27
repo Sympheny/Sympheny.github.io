@@ -18,8 +18,8 @@ The Ehub Modeling Tool takes as input case study data and technology data in def
 
 The purpose of the Ehub Modeling Tool is:
 
-To facilitate computational experiments for optimizing the design and operation of multi-energy systems under different conditions.
-To simplify and accelerate the process of developing energy hub models via automated code generation.
-To facilitate the incorporation of energy hub models into multi-model workflows.
+- To facilitate computational experiments for optimizing the design and operation of multi-energy systems under different conditions.
+- To simplify and accelerate the process of developing energy hub models via automated code generation.
+- To facilitate the incorporation of energy hub models into multi-model workflows.
 
 Enjoy!

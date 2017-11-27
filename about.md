@@ -10,7 +10,7 @@ For further details on Sympheny concept, please visit the Holistic Urban Energy 
 ![Poster](img/PosterSympheny.jpg "Poster")
 
 ### Setup
-Sympheny first modeling tool may be installed by simply downloading the .zip folder from the [eHub modeling tool] (https://github.com/hues-platform/ehub-modeling-tool).
+Sympheny first modeling tool may be installed by simply downloading the .zip folder from the [eHub modeling tool](https://github.com/hues-platform/ehub-modeling-tool).
 
 The Energy Hub (Ehub) Modeling Tool is a set of Matlab scripts for creating, executing and visualizing the results of an energy hub model for a given case study and a set of technologies.
 

@@ -1,21 +1,25 @@
 ---
 layout: page
-title: About Emerald
+title: About Sympheny
 ---
 ## About
-Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
+Sympheny offers a cloud-based software platform to support the planning of renewables-based decentralized energy systems for neighborhoods, districts and cities. Using an innovative data-driven approach, our platform facilitates the realization of optimally efficient and sustainable energy system solutions that effectively exploit the opportunities offered by emerging energy technologies.
 
-For further details on Emerald, please visit the [repository on Github](https://github.com/KingFelix/emerald/).
+For further details on Sympheny concept, please visit the Holistic Urban Energy Simulation platform [HUES](https://hues-platform.github.io/).
 
-![Emerald](img/Emerald01.png "Emerald")
+![Poster](img/PosterSympheny.jpg "Poster")
 
 ### Setup
-Emerald may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/KingFelix/emerald/archive/master.zip).
+Sympheny first modeling tool may be installed by simply downloading the .zip folder from the [eHub modeling tool] (https://github.com/hues-platform/ehub-modeling-tool).
 
-After extracting the content from the folder into the selected directory, you can type ``jekyll serve`` from the terminal, than open your browser to ``0.0.0.0:4000/emerald/`` and you will find it there.
+The Energy Hub (Ehub) Modeling Tool is a set of Matlab scripts for creating, executing and visualizing the results of an energy hub model for a given case study and a set of technologies.
 
-Additionally it is possible to fork the repository and use Github Pages as hosting. By following this way it will be enough to change the ``baseurl`` value into the ``_config.yml`` file, with the directory name of your project (for example /blog) or simply with a "/" (slash) if you want install Emerald in the root. 
+The Ehub Modeling Tool takes as input case study data and technology data in defined formats and outputs an AMS file which is executed in the optimization package Aimms. The Ehub Modeling Tool also includes R code for visualizing the results of the energy hub model.
 
-Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best starting point!
+The purpose of the Ehub Modeling Tool is:
+
+To facilitate computational experiments for optimizing the design and operation of multi-energy systems under different conditions.
+To simplify and accelerate the process of developing energy hub models via automated code generation.
+To facilitate the incorporation of energy hub models into multi-model workflows.
 
 Enjoy!

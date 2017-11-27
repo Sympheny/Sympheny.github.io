@@ -1,14 +1,14 @@
 # Site settings
-title: Emerald | A simple Jekyll blog
+title: Sympheny | Orchestrating local energy solutions
 description: "A minimal blog template, build with Jekyll."
-url: "http://www.jacoporabolini.com/emerald"
+url: "http://www.sympheny.com/"
 author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
+  name: "Julien Marquant"
+  email: "sympheny.energy@gmail.com"
+  url: "http://www.sympheny.com/"
 
 # Build settings
-baseurl: /emerald # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site

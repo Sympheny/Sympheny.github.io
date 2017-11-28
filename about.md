@@ -7,7 +7,7 @@ Sympheny offers a cloud-based software platform to support the planning of renew
 
 For further details on Sympheny concept, please visit the Holistic Urban Energy Simulation platform [HUES](https://hues-platform.github.io/).
 
-![Poster](img/PosterSympheny.jpg "Poster")
+![Poster](img/PosterSympheny.svg "Poster")
 
 ### Setup
 Sympheny first modeling tool may be installed by simply downloading the .zip folder from the [eHub modeling tool](https://github.com/hues-platform/ehub-modeling-tool).

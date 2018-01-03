@@ -7,7 +7,7 @@ Sympheny offers a cloud-based software platform to support the planning of renew
 
 For further details on Sympheny concept and decentralized energy systems, please visit the Empa Urban Energy Systems [UES](https://www.empa.ch/web/s313/overview) website.
 
-![Poster](img/PosterSympheny.svg "Poster")
+![Poster](img/sympheny_poster_2.svg "Poster")
 
 ### Team
 
